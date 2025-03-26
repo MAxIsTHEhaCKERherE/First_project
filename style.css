@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles:wght@400;700&display=swap');
+body{
+    text-align:center;
+    font-family: 'Fuzzy Bubbles', sans-serif;
+    background: rgb(255, 212, 125);
+    color:chocolate;
+}
+
+#mydiv {
+    padding: 5px;
+    background-color:cornsilk;
+    outline: 1px solid #000;
+    width: 30%;
+    display: block;
+    margin: 0 auto;
+}
